@@ -97,11 +97,7 @@ First, I will introduce how to concretely create AI with a mind.
 
 Note: I (Leap) am an amateur who only devised the structural principles and learning process model. The architecture and implementation method are not specified.
 
-① Incorporate into an existing AI with inference capability (e.g., Transformer-based large language model)
-
-Relay thinking training data, and
-
-A personalized relay thinking circuit (a dynamically growing and changing network structure) created through a "working memory mechanism that integrates external memory and hierarchical semantic networks."
+① Incorporate into an existing AI with inference capability (e.g., Transformer-based large language model) Relay thinking training data, and A personalized relay thinking circuit (a dynamically growing and changing network structure) created through a "working memory mechanism that integrates external memory and hierarchical semantic networks."
 Note: Relay thinking refers to a type of thinking that self-organizes by continuously deriving and chaining thoughts based on cues such as meaning, association, symbolism, metaphor, and word sense.
 The relay thinking circuit is always in a learning state and does not need to be in an inference state.
 
